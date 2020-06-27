@@ -1,0 +1,26 @@
+{
+    "name": "dark-spark",
+    "displayName": "Dark Spark",
+    "description": "A Dark theme for the modern coding",
+    "publisher": "4lon3ly0",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Spark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Spark Theme-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alonely0/black-spark"
+    }
+}
